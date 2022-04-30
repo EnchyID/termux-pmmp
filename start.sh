@@ -7,11 +7,11 @@ rm -r resource_packs
 rm server.properties
 cd
 cd storage/shared/termux
-cp -r plugins $HOME/termux-pmmp
-cp -r plugin_data $HOME/termux-pmmp
-cp -r resource_packs $HOME/termux-pmmp
-cp -r worlds $HOME/termux-pmmp
-cp -r players $HOME/termux-pmmp
-cp server.properties $HOME/termux-pmmp
-cd $HOME/termux-pmmp
+cp -r plugins $HOME/termux-pmmp/pmmp
+cp -r plugin_data $HOME/termux-pmmp/pmmp
+cp -r resource_packs $HOME/termux-pmmp/pmmp
+cp -r worlds $HOME/termux-pmmp/pmmp
+cp -r players $HOME/termux-pmmp/pmmp
+cp server.properties $HOME/termux-pmmp/pmmp
+cd $HOME/termux-pmmp/pmmp
 ./start.sh
