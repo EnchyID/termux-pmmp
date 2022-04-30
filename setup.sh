@@ -1,7 +1,6 @@
 termux-setup-storage
 
-echo Creating server...
-
+cd
 cd storage/shared
 
 mkdir pmmp
