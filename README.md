@@ -39,6 +39,13 @@ Create PocketMine-MP Server on Termux Mobile.
 ```bash
 > ./setup.sh
 ```
+<b>If you want to start the server again then use the command:</b>
+```bash
+> ./start.sh
+```
+
+# Notes
+<b>This server running PocketMine-MP for minecraft bedrock 1.16.200! Can't work for minecraft bedrock 1.16-</b>
 
 
 
