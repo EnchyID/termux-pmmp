@@ -6,7 +6,8 @@ Download Termux on PlayStore!
 - [Update & Upgrade Package](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#update--upgrade-package)
 - [Install GIT](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#install-git)
 - [Allow Permission Dandied](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#allow-permission-dandied)
-- 
+- [Setup & Start Server](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#setup--start-server)
+- [Read This](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#notes)
 # Update & Upgrade Package
 ```bash
 > pkg update -y && pkg upgrade -y
