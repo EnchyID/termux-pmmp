@@ -45,7 +45,7 @@ Create PocketMine-MP Server on Termux Mobile.
 ```
 
 # Notes
-<b>This server running PocketMine-MP for minecraft bedrock 1.16.200! Can't work for minecraft bedrock 1.16-</b>
+<b>This server running PocketMine-MP for minecraft bedrock 1.16.200! Can't work for minecraft bedrock 1.16- or 1.16+</b>
 
 
 
