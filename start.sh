@@ -14,4 +14,4 @@ cp -r worlds $HOME/termux-pmmp/pmmp
 cp -r players $HOME/termux-pmmp/pmmp
 cp server.properties $HOME/termux-pmmp/pmmp
 cd $HOME/termux-pmmp/pmmp
-./start.sh
+./run.sh
