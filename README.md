@@ -1,9 +1,12 @@
-# termux-pmmp
+# Termux PMMP
 Create PocketMine-MP Server on Termux Mobile.
 Download Termux on PlayStore!
-Step by Step
+
+# Setup Step by Step!
 - [Update & Upgrade Package](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#update--upgrade-package)
 - [Install GIT](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#install-git)
+- [Allow Permission Dandied](https://github.com/FrogasQ/termux-pmmp/blob/main/README.md#allow-permission-dandied)
+- 
 # Update & Upgrade Package
 ```bash
 > pkg update -y && pkg upgrade -y
