@@ -6,12 +6,12 @@ rm -r plugins
 rm -r resource_packs
 rm server.properties
 cd
-cd storage/shared/pmmp
-cp -r plugins $HOME/pmmp
-cp -r plugin_data $HOME/pmmp
-cp -r resource_packs $HOME/pmmp
-cp -r worlds $HOME/pmmp
-cp -r players $HOME/pmmp
-cp server.properties $HOME/pmmp
-cd $HOME/pmmp
+cd storage/shared/termux-pmmp
+cp -r plugins $HOME/termux-pmmp
+cp -r plugin_data $HOME/termux-pmmp
+cp -r resource_packs $HOME/termux-pmmp
+cp -r worlds $HOME/termux-pmmp
+cp -r players $HOME/termux-pmmp
+cp server.properties $HOME/termux-pmmp
+cd $HOME/termux-pmmp
 ./start.sh
