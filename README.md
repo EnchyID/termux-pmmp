@@ -2,8 +2,6 @@
 Create PocketMine-MP Server on Termux Mobile.
 
 # Install GIT
-
-<b>Install GIT</b>
 ```bash
 > pkg install git
 ```
@@ -33,9 +31,9 @@ Create PocketMine-MP Server on Termux Mobile.
 ```bash
 > chmod +x run.sh
 ```
-``bash
+```bash
 > cd $HOME/termux-pmmp
-
+```
 
 # Setup & Start Server
 ```bash
