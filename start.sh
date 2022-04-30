@@ -6,7 +6,7 @@ rm -r plugins
 rm -r resource_packs
 rm server.properties
 cd
-cd storage/shared/termux-pmmp
+cd storage/shared/termux
 cp -r plugins $HOME/termux-pmmp
 cp -r plugin_data $HOME/termux-pmmp
 cp -r resource_packs $HOME/termux-pmmp
